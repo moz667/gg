@@ -1,4 +1,4 @@
-# Maestro del Caos (Nivel 1-40): Bárbaro / Maestro de Armas / Guerrero
+# Guía de Build NWN (Nivel 1-40): Bárbaro / Maestro de Armas / Guerrero
 
 Esta build de daño masivo a dos manos utiliza la **Gran Espada (Greatsword)** para aprovechar la Fuerza de la Furia del Bárbaro, las dotes de daño del Guerrero y los críticos x3 del Maestro de Armas (Weapon Master).
 
@@ -28,21 +28,21 @@ Esta build de daño masivo a dos manos utiliza la **Gran Espada (Greatsword)** p
 ---
 
 ## 2. Fase Pre-Épica (Niveles 1-20)
-*Objetivo: Cumplir los requisitos de dotes del Maestro de Armas y entrar a la clase de prestigio rápidamente.*
+*Objetivo: Obtener las dotes de requisito respetando el BAB mínimo y entrar a Maestro de Armas a nivel 9.*
 
-| Nivel | Clase | Dotes y Progresión (Español / Inglés) | Incremento de Atributo | Notas / Gestión de Habilidades |
+| Nivel | Clase | Dotes Obtenidas (Español / Inglés) | Incremento de Atributo | Notas / Gestión de Habilidades |
 | :--- | :--- | :--- | :--- | :--- |
 | **1** | Bárbaro 1 | Esquiva / **Dodge**<br>Pericia en Combate / **Expertise** | - | Dote inicial + Dote de Humano. Furia bárbara activa. |
 | **2** | Guerrero 1 | Soltura con un arma: Gran Espada / **Weapon Focus: Greatsword** | - | Dote extra de Guerrero. |
-| **3** | Guerrero 2 | Movilidad / **Mobility**<br>Ataque Elástico / **Spring Attack** | - | Dote de nivel 3 + Dote extra de Guerrero. **Sube Intimidar a 4 aquí**. |
-| **4** | Bárbaro 2 | *Ninguna* | **Fuerza +1** | Ganas dote de Esquiva Asombrosa (Uncanny Dodge). |
+| **3** | Guerrero 2 | Movilidad / **Mobility**<br>Ataque Poderoso / **Power Attack** | - | Dote de nivel 3 + Dote extra de Guerrero. **Sube Intimidar a 4 aquí**. |
+| **4** | Bárbaro 2 | *Ninguna* | **Fuerza +1** | Ganas dote de Esquiva Asombrosa (Uncanny Dodge). El BAB llega a +4. |
 | **5** | Bárbaro 3 | | - | |
-| **6** | Bárbaro 4 | Ataque de Torbellino / **Whirlwind Attack** | - | **¡Ya cumples todos los requisitos del Maestro de Armas!** |
+| **6** | Bárbaro 4 | Ataque Elástico / **Spring Attack** | - | Dote general de nivel 6 (Ya tienes el BAB +6 requerido). |
 | **7** | Guerrero 3 | | - | Nivel para mantener el BAB al máximo. |
-| **8** | Guerrero 4 | Ataque Poderoso / **Power Attack** | **Fuerza +1** | Dote extra de Guerrero. Requisito para Cleave y dotes épicas. |
-| **9** | MdA 1 | Arma Predilecta: Gran Espada / **Weapon of Choice** | - | **¡Entras a Maestro de Armas!** |
+| **8** | Guerrero 4 | Ataque de Torbellino / **Whirlwind Attack** | **Fuerza +1** | Dote extra de Guerrero. **¡Ya cumples todos los requisitos!** |
+| **9** | MdA 1 | Arma Predilecta: Gran Espada / **Weapon of Choice**<br/>Crítico Incrementado: Gran Espada / **Improved Critical** | - | **¡Entras a Maestro de Armas!** |
 | **10** | MdA 2 | | - | |
-| **11** | MdA 3 | Crítico Incrementado: Gran Espada / **Improved Critical** | - | |
+| **11** | MdA 3 | | - | |
 | **12** | MdA 4 | Hendidura / **Cleave** | **Fuerza +1** | Dote general de nivel 12. |
 | **13** | MdA 5 | | - | Tu Gran Espada aumenta su rango de amenaza crítica. |
 | **14** | MdA 6 | | - | |
@@ -66,13 +66,14 @@ Esta build de daño masivo a dos manos utiliza la **Gran Espada (Greatsword)** p
 | **24** | Bárbaro 9 | Crítico Aplastante / **Overwhelming Critical** | **Fuerza +1** | Añade daño masivo directo en cada golpe crítico. |
 | **25** | Bárbaro 10 | | - | |
 | **26** | Bárbaro 11 | | - | |
-| **27** | Bárbaro 12 | Crítico Devastador / **Devastating Critical** | - | **¡La dote definitiva!** Muerte instantánea por crítico si fallan salvación. |
+| **27** | Bárbaro 12 | Gran Fuerza II / **Great Strength II** | - | |
+| **34** | Bárbaro 19 | | - | |
 | **28** | Bárbaro 13 | *Ninguna* | **Fuerza +1** | |
 | **29** | Bárbaro 14 | | - | |
-| **30** | Bárbaro 15 | Furia Épica / **Epic Rage** | - | Tu furia ahora otorga **+8 a Fuerza** y +8 a Constitución. |
+| **30** | Bárbaro 15 | Crítico Devastador / **Devastating Critical** | - | **¡La dote definitiva!** Muerte instantánea por crítico si fallan salvación. |
 | **31** | Bárbaro 16 | | - | Ganas Reducción de Daño física aumentada. |
 | **32** | Bárbaro 17 | *Ninguna* | **Fuerza +1** | |
-| **33** | Bárbaro 18 | Gran Fuerza II / **Great Strength II** | - | |
+| **33** | Bárbaro 18 | Thundering Rage | - | critical +2d6 dmg / 3 rounds |
 | **34** | Bárbaro 19 | | - | |
 | **35** | Bárbaro 20 | Proeza Épica / **Epic Prowess** | - | Dote extra de Bárbaro Épico (+1 al ataque). |
 | **36** | Bárbaro 21 | Gran Fuerza III / **Great Strength III** | **Fuerza +1** | |
@@ -80,3 +81,9 @@ Esta build de daño masivo a dos manos utiliza la **Gran Espada (Greatsword)** p
 | **38** | Guerrero 10 | Especialización Épica en Armas / **Epic Weapon Spec.** | - | Dote extra de Guerrero (+4 al daño plano permanente). |
 | **39** | Guerrero 11 | Gran Fuerza IV / **Great Strength IV** | - | |
 | **40** | Guerrero 12 | Armadura de Piel Épica / **Armor Skin** | **Fuerza +1** | Dote extra de Guerrero (+1 a la CA permanente). |
+
+
+```
+Furia Épica / **Epic Rage** | - | Tu furia ahora otorga **+8 a Fuerza** y +8 a Constitución. |
+
+```
