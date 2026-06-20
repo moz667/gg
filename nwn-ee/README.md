@@ -13,6 +13,10 @@
 * [El Cruzado Indomable](./el%20cruzado%20indomable%20-%20paladin%20-%20clerigo.md)
 
 
+**Distancia / DPS:**
+
+* [El alcon arcano](./el%20alcon%20arcano%20-%20explorador%20-%20mago%20-%20arquero%20arcano.md)
+
 
 ## Otros
 
