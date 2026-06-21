@@ -15,8 +15,8 @@
 
 **Distancia / DPS:**
 
-* [El alcon arcano](./el%20alcon%20arcano%20-%20explorador%20-%20mago%20-%20arquero%20arcano.md)
-
+* [El Halcon Arcano](./el%20halcon%20arcano%20-%20explorador%20-%20mago%20-%20arquero%20arcano.md)
+* [El Señor de la Devastación Arcana](./el%20señor%20de%20la%20devastacion%20arcana%20-%20mago%20-%20pale%20master.md)
 
 ## Otros
 
