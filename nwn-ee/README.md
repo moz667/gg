@@ -4,6 +4,7 @@
 
 **Tanque / Melee :**
 
+* [El Azote del Averno](./el%20azote%20del%20averno%20-%20guerrero%20%20-%20mago%20-%20campeon%20de%20torm.md)
 * [Coloso Draconico](./coloso%20draconico%20-%20guerrero%20-%20bardo%20-%20disccupulo%20de%20dragon%20rojo.md)
 * [Maestro del Caos](./maestro%20del%20caos%20-%20barbaro%20-%20guerrero%20-%20maestro%20de-armas.md)
 * [Segador de la Luna Oscura](./segador%20de%20la%20luna%20oscura%20-%20monje%20-%20guerrero%20-%20maestro%20de%20armas.md)
