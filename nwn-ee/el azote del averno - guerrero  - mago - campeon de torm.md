@@ -80,7 +80,7 @@
 | **36** | Campeón de Torm 11 | **+1 Fuerza (STR: 25)** | Devastating critical (longsword) |
 | **37** | Campeón de Torm 12 | — | -- |
 | **38** | Campeón de Torm 13 | Defensa Sagrada +4 | — *(Sin dote)* |
-| **39** | Campeón de Torm 14 | — | Gran Fuerza IV (STR: 26) *Great Strength IV* |
+| **39** | Campeón de Torm 14 | — | Gran Fuerza IV (STR: 26) *Great Strength IV*<br>Superio Initiative |
 | **40** | **Campeón de Torm 15** | **+1 Fuerza (STR: 29)** | **Conjuro Épico: Resguardo Arcano *(Epic Spell: Epic Ward)*** |
 
 ---
