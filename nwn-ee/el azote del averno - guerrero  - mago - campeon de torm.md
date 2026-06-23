@@ -102,3 +102,45 @@ En la cúspide de tu ascensión, las sinergias de *El Azote del Averno* ridiculi
 *   **El Escudo Inmune a la Magia:** Tus niveles de Campeón de Torm graban en tu espíritu una *Defensa Sagrada* de +4 a todas las salvaciones. Al fusionarse con la maestría en *Spellcraft* (+1 contra conjuros por cada 5 puntos), te vuelves un agujero negro para la magia enemiga. Las maldiciones, muertes definitivas y el control mental simplemente rebotarán en tu armadura.
 *   **La Muralla de Absoluta Mitigación:** Tu hechizo **Premonición** intercepta y devora los primeros 30 puntos de daño físico de cada tajo enemigo. Al estar blindado contra el daño catastrófico de los golpes críticos mediante tus dotes de salud y protecciones divinas, las oleadas de enemigos comunes te infligirán exactamente **0 de daño**.
 *   **El Despliegue del Bastión Épico:** Frente a deidades caídas o dragones primigenios, convoca al unísono la **Epic Mage Armor** (un imponente incremento de +20 a la CA global blindando todas tus facetas) y el **Epic Ward** (una barrera mística que absorbe 50/+20 hasta un umbral de 500 puntos de daño total). Con tus protecciones selladas, empuña tu Espada Larga impulsada por tus atributos de Fuerza y erradica cualquier rastro de malicia del campo de batalla.
+
+## ⚔️ Manual de Campaña: Estrategia de Combate del Azote del Averno
+
+Para sacar el 100% de rendimiento a este coloso arcanista-marcial, debes dividir tu jugabilidad en tres fases estrictas: la preparación en el campamento, el combate acorazado estándar y el despliegue del bastión épico contra jefes.
+
+---
+
+### 🛡️ Fase 1: El Ritual del Desvestido (Antes de Combatir)
+Dado que los conjuros de niveles altos (4 al 9) aún tienen probabilidad de fallar si llevas metal encima, debes realizar esta rutina de bufos de larga duración **siempre antes de entrar a una mazmorra o tras un descanso completo**:
+
+1.  **Quítate la armadura:** Abre tu inventario y desequípate la armadura pesada y el escudo (quédate en ropa de tela o túnica). Tu Fallo de Conjuro Arcano bajará al 0%.
+2.  **Lanza los Escudos de Larga Duración:** Canta tus protecciones base. El orden ideal es:
+    *   `[Mage Armor / Armadura de Mago]` (Para arañar los primeros puntos de CA).
+    *   `[Shield / Escudo]` (Para inmunizarte contra proyectiles mágicos y críticos).
+    *   `[Premonition / Premonición]` (Tu barrera vital de nivel 8 que absorberá 30 puntos de daño por golpe).
+    *   `[Mind Blank / Mente en Blanco]` (Nivel 8: te hace inmune a que los magos enemigos te controlen mentalmente o te infundan miedo).
+3.  **Potencia tus Atributos:** Añade tus bufos físicos:
+    *   `[Bull's Strength / Fuerza de Toro]` (Para disparar tu Fuerza y tu precisión).
+    *   `[Flame Weapon / Flama Flamígera]` e `[Keen Edge / Afiladura]` (Para encender tu Espada Larga y duplicar tus impactos críticos).
+4.  **Enfúndate el Acero:** Vuelve a equipar tu armadura de placas completa y tu escudo pesado. Los conjuros que ya están flotando en tu cuerpo **no se disipan ni fallan** por ponerte metal encima; se mantendrán activos durante horas de juego.
+
+---
+
+### ⚡ Fase 2: Combate Acorazado Estándar (En Mitad de la Melé)
+Una vez que entres a las salas llenas de enemigos comunes (masillas), no necesitas desvestirte para renovar tus magias rápidas gracias a tu dote épica **Automatic Still Spell I**:
+
+*   **La Iniciación:** Carga contra el grupo enemigo lanzando `[Haste / Velocidad]` y `[Displacement / Desplazamiento]`. Al ser conjuros de nivel 3, tu dote épica elimina el 100% del fallo por armadura. Los lanzarás acorazado al instante y los enemigos fallarán el 50% de sus golpes.
+*   **La Táctica del Derribo:** Pon en tu barra de acceso rápido la dote activa `[Improved Knockdown / Derribo Mejorado]`. Usa este ataque físico contra los magos o arqueros enemigos para tirarlos al suelo. Mientras estén derribados, no podrán lanzar hechizos y tu Espada Larga ganará un bonificador masivo para destrozarlos en el suelo.
+*   **Control de Masas Acorazado:** Si te rodean demasiados enemigos, lanza `[Slow / Ralentizar]`. Recuerda prepararlo previamente en tu grimorio modificado con la dote *Still Spell* (ocupará nivel 5) para que tu armadura pesada no lo haga fallar. Reducirás a la mitad los ataques de todo el grupo rival.
+
+---
+
+### 🌋 Fase 3: El Protocolo del Tanque Inmortal (Contra Jefes y Dragones)
+Cuando pases la puerta de un Jefe Final, un Dragón o un Demonio Mayor, debes activar tu modo coloso para ser absolutamente intocable:
+
+1.  **La Purga Mágica:** Arranca el combate lanzando `[Mordenkainen's Disjunction / Disyunción]`. Esto desnudará al jefe instantáneamente, quitándole todos sus escudos mágicos y bufos de velocidad.
+2.  **El Doble Escudo Épico:** Activa tu habilidad de dote épica **[Epic Mage Armor]** (te dará un +20 brutal a la CA acumulable) y acto seguido lanza **[Epic Ward]** (Nivel 40: un escudo que absorbe 50 puntos de daño por golpe hasta un colchón de 500 totales).
+3.  **La Mutación Final:** Lanza tu **[Tenser's Transformation / Transformación de Tenser]** (debe estar guardada como Somática en nivel 7). 
+    *   Tu barra de vida se duplicará al instante.
+    *   Tu Ataque Base (BAB) se igualará al de un guerrero puro de nivel 40.
+    *   Tus estadísticas físicas se dispararán al máximo.
+4.  **Aniquilación:** Con tu Espada Larga amenazando crítico en el rango 15-20 del dado debido a tus bufos arcanos y tu inmunidad absoluta a los críticos enemigos por tu dote *Epic Critical Resistance*, machaca al jefe a base de Fuerza bruta. No habrá entidad en los Reinos Olvidados capaz de perforar tus escudos antes de que caiga rendida a tus pies.
