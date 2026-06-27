@@ -18,6 +18,7 @@
 * [El Halcon Arcano](./el%20halcon%20arcano%20-%20explorador%20-%20mago%20-%20arquero%20arcano.md)
 * [El Señor de la Devastación Arcana](./el%20señor%20de%20la%20devastacion%20arcana%20-%20mago%20-%20pale%20master.md)
 * [El Carión del Viento](./el%20carion%20del%20viento%20-%20guerrero%20-%20bardo%20-%20arquero%20arcano.md)
+* [Sentencia Estelar de Comanthor](./sentencia%20estelar%20de%20cormanthor%20-%20guerrero%20-%20mago%20-%20arquero%20arcano.md)
 
 ## Otros
 
