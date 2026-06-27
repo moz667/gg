@@ -33,6 +33,7 @@
 
 ## 🗺️ 3. Senda Pre-Épica: El Despertar del Acero (Niveles 1 al 20)
 
+
 | Nivel Total | Clase a Elegir | Atributo / Hito | Dotes Obtenidas (Español / Inglés) |
 | :--- | :--- | :--- | :--- |
 | **1** | Guerrero 1 | Vigor inicial máximo | Soltura con un Arma: Espada Larga *(Weapon Focus: Longsword)*<br>Ataque Poderoso *(Power Attack)*<br>Dura de Pelar *(Toughness)* |
@@ -144,3 +145,65 @@ Cuando pases la puerta de un Jefe Final, un Dragón o un Demonio Mayor, debes ac
     *   Tu Ataque Base (BAB) se igualará al de un guerrero puro de nivel 40.
     *   Tus estadísticas físicas se dispararán al máximo.
 4.  **Aniquilación:** Con tu Espada Larga amenazando crítico en el rango 15-20 del dado debido a tus bufos arcanos y tu inmunidad absoluta a los críticos enemigos por tu dote *Epic Critical Resistance*, machaca al jefe a base de Fuerza bruta. No habrá entidad en los Reinos Olvidados capaz de perforar tus escudos antes de que caiga rendida a tus pies.
+
+## Notas
+
+### Espada bastarda a una mano
+
+Dentro de las mejores armas a una mano estan:
+
+* La espada bastarda
+* La katana
+
+En ambos casos, tanto si quieres usar espada bastarda a una mano, como para usar la katana, es requisito elegir **Competencias con armas (exoticas) *Weapon proficiency (exotic)*** una vez tengas esta dote, podras elegir Soltura con un Arma: Espada Bastarda / Katana *(Weapon Focus: Bastard sword / Katana)*
+
+Probablemente venga a cuenta cogerla a nivel 1 que es cuando puedes elegir varias dotes.
+
+### Soltura con la Escuela de Magia (Abjuracion, Evocacion...) / Spell Focus (Abjuration, Evocation...)
+
+No tengo claro que sea necesario coger las dotes de Spell Focus... te da un bonus a las tiradas de hechizos de la escuela en cuestion (+2). pero no sirve de mucho mas, y teniendo en cuenta que el objetivo de esta build es crear un tanque, muchos de los hechizos te los echas a ti mismo (por lo que te la sopla un poco subir esto...)
+
+**Tabla resumen de las escuelas de magia y ejemplos de hechizos:**
+
+| Escuela de Magia | Función Principal en el Juego | Razón principal de su utilidad | Ejemplos de Hechizos del Mago |
+| :--- | :--- | :--- | :--- |
+| **Abjuración** | Protección, defensas mágicas y anulación de conjuros. | Es vital para la supervivencia del mago y para eliminar las protecciones de los jefes enemigos. | *Escudo, Resistencia a la energía, Globo de invulnerabilidad, Brecha de conjuros, Disipación mayor*. |
+| **Adivinación** | Obtención de información, detección y romper ilusiones. | Permite golpear a enemigos invisibles y otorga la mejor reducción de daño física del juego. | *Identificar, Ver lo invisible, Visión verdadera, Premonición*. |
+| **Conjuración** | Invocación de criaturas y creación de efectos de terreno. | Excelente para invocar aliados que absorban el daño o para ralentizar y envenenar zonas llenas de enemigos. | *Grasa, Bruma fétida, Nube asesina, Flecha ácida de Melf, Convocar criatura (I al IX), Portal (Gate)*. |
+| **Encantamiento** | Control mental y manipulación de las acciones del enemigo. | Permite dejar fuera de combate a grupos enteros de enemigos o forzarlos a luchar de tu lado. | *Dormir, Retener persona/monstruo, Confusión, Dominar monstruo, Encantamiento masivo*. |
+| **Evocación** | Manipulación de energía elemental para infligir daño puro. | Es la escuela ofensiva por excelencia; contiene los hechizos de daño en área y proyectiles más destructivos. | *Manos ardientes, Misil mágico, Bola de fuego, Tormenta de misiles de Isaac, Enjambre de meteoros*. |
+| **Ilusión** | Engaños visuales, camuflaje y distorsión de la realidad. | Otorga las mejores dotes defensivas de evasión (ocultamiento) y permite imitar conjuros de otras escuelas. | *Invisibilidad mayor, Desplazamiento, Asesino fantasmal, Alucinación sombría, Parada del tiempo (Time Stop)*. |
+| **Nigromancia** | Manipulación de la energía vital, la muerte y el no-muerto. | Capaz de matar instantáneamente a los objetivos, infligir estados perjudiciales severos o drenar niveles. | *Toque vampírico, Reanimar a los muertos, Drenar energía, Dedo de la muerte, Lamento de la banshee*. |
+| **Transmutación** | Alteración física del cuerpo, la materia y el tiempo. | Esencial para potenciar tus estadísticas, ganar dotes físicas de combate o ralentizar/acelerar el tiempo. | *Fuerza de toro, Aceleración (Haste), Lentitud, Carne a piedra, Transformación de Tenser*. |
+
+
+## Version con Paladin en vez de guerrero
+
+No es mejor o peor que el guerrero, aunque tiene sutiles diferencias que son estas:
+
+
+| Característica | Paladín (Nivel 4) | Guerrero (Nivel 4) | Ganador |
+| :--- | :--- | :--- | :--- |
+| **Ataque Base (BAB)** | +4 | +4 | **Empate** (Máxima precisión del juego) |
+| **Puntos de Vida (Vida Base)** | 4d10 | 4d10 | **Empate** |
+| **Dotes por Clase** | 0 | **3 dotes adicionales** | **Guerrero** (Mucha más personalización) |
+| **Daño Físico Pasivo** | Basado solo en Fuerza | Fuerza **+2 por Especialización** | **Guerrero** (Daño más consistente) |
+| **Defensa y Salvaciones** | **Altas** (Suma el Carisma) | Bajas (Solo estadísticas base) | **Paladín** (Muy resistente a la magia) |
+| **Utilidad y Magia** | Conjuros, Inmunidades, Curación | Ninguna | **Paladín** |
+
+
+### Atributos iniciales y dotes
+
+**Atributos:**
+
+*   **Fuerza (STR):** 14
+*   **Destreza (DEX):** 10
+*   **Constitución (CON):** 14
+*   **Inteligencia (INT):** 14
+*   **Sabiduría (WIS):** 12
+*   **Carisma (CHA):** 14 *(+2 a todas las salvaciones)*
+
+**Dotes:**
+
+Se puede hacer con las mismas que el Guerrero (mas o menos), lo unico que al empezar con INT 14, tendras que subir 5 puntos a INT en los distintos niveles donde estas subiendo STR para llegar hasta 19 y poder elegir asi en el nivel 21 de mago el conjuro epico de armadura de mago.
+
