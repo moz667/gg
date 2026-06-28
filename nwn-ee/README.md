@@ -19,6 +19,7 @@
 * [El Señor de la Devastación Arcana](./el%20señor%20de%20la%20devastacion%20arcana%20-%20mago%20-%20pale%20master.md)
 * [El Carión del Viento](./el%20carion%20del%20viento%20-%20guerrero%20-%20bardo%20-%20arquero%20arcano.md)
 * [Sentencia Estelar de Comanthor](./sentencia%20estelar%20de%20cormanthor%20-%20guerrero%20-%20mago%20-%20arquero%20arcano.md)
+* [Umbra Mortis](./umbra%20mortis%20-%20rogue%20-%20asesino%20-%20bailarin%20sombrio.md)
 
 ## Otros
 
