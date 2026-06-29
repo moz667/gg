@@ -12,10 +12,10 @@ Esta build de daño masivo a dos manos utiliza la **Gran Espada (Greatsword)** p
 
 ### Atributos Iniciales / Ability Scores
 *   **Fuerza (STR):** 16 *(Tu estadística principal. Aumenta tu probabilidad de acertar y aporta un bono de daño de 1.5x al usar la Gran Espada a dos manos).*
-*   **Destreza (DEX):** 13 *(Requisito mínimo obligatorio para las dotes Dodge y Mobility).*
+*   **Destreza (DEX):** 14 *(Requisito mínimo obligatorio para las dotes Dodge y Mobility es 13).*
 *   **Constitución (CON):** 14 *(Te da una base de vida muy alta y aumenta la duración de tu Furia).*
-*   **Inteligencia (INT):** 13 *(Requisito mínimo obligatorio para la dote Expertise).*
-*   **Sabiduría (WIS):** 8 *(Atributo de sacrificio).*
+*   **Inteligencia (INT):** 14 *(Requisito mínimo obligatorio para la dote Expertise es 13).*
+*   **Sabiduría (WIS):** 10 *(Atributo de sacrificio).*
 *   **Carisma (CHA):** 8 *(Atributo de sacrificio).*
 
 > ⚠️ **REGLA DE ATRIBUTOS AL SUBIR DE NIVEL:** El juego te dará 1 punto de atributo libre cada 4 niveles (en los niveles 4, 8, 12, 16, 20, 24, 28, 32, 36 y 40). **Pon los 10 puntos obligatoriamente en Fuerza (STR)**.
@@ -32,9 +32,9 @@ Esta build de daño masivo a dos manos utiliza la **Gran Espada (Greatsword)** p
 
 | Nivel | Clase | Dotes Obtenidas (Español / Inglés) | Incremento de Atributo | Notas / Gestión de Habilidades |
 | :--- | :--- | :--- | :--- | :--- |
-| **1** | Bárbaro 1 | Esquiva / **Dodge**<br>Pericia en Combate / **Expertise** | - | Dote inicial + Dote de Humano. Furia bárbara activa. |
+| **1** | Bárbaro 1 | Esquiva / **Dodge**<br>Pericia en Combate / **Expertise** | - | Dote inicial + Dote de Humano. Furia bárbara activa. **Sube Intimidar a 4 aquí**. |
 | **2** | Guerrero 1 | Soltura con un arma: Gran Espada / **Weapon Focus: Greatsword** | - | Dote extra de Guerrero. |
-| **3** | Guerrero 2 | Movilidad / **Mobility**<br>Ataque Poderoso / **Power Attack** | - | Dote de nivel 3 + Dote extra de Guerrero. **Sube Intimidar a 4 aquí**. |
+| **3** | Guerrero 2 | Movilidad / **Mobility**<br>Ataque Poderoso / **Power Attack** | - | Dote de nivel 3 + Dote extra de Guerrero. |
 | **4** | Bárbaro 2 | *Ninguna* | **Fuerza +1** | Ganas dote de Esquiva Asombrosa (Uncanny Dodge). El BAB llega a +4. |
 | **5** | Bárbaro 3 | | - | |
 | **6** | Bárbaro 4 | Ataque Elástico / **Spring Attack** | - | Dote general de nivel 6 (Ya tienes el BAB +6 requerido). |
