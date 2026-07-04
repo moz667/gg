@@ -1,7 +1,7 @@
 # Archievements
 
-Source: https://steamcommunity.com/sharedfiles/filedetails/?id=1879899065
-Video guia: https://youtu.be/OYlg0i3Do7A
+* Source: https://steamcommunity.com/sharedfiles/filedetails/?id=1879899065
+* Video guia: https://youtu.be/OYlg0i3Do7A
 
 ## Main Module
 
