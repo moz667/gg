@@ -3,19 +3,21 @@
 Source: https://steamcommunity.com/sharedfiles/filedetails/?id=1879899065
 Video guia: https://youtu.be/OYlg0i3Do7A
 
-## [ ] Silence the Wailing (Chapter 1)
+## Main Module
+
+### [ ] Silence the Wailing (Chapter 1)
 
 You succeeded in curing the Wailing Death!
 
 Story progression. Take Desther back to Lord Nasher, promting a final cut-scene for chapter 1 and giving you this achievement.
 
-## [ ] New Servant of Evil (Chapter 2)
+### [ ] New Servant of Evil (Chapter 2)
 
 You navigated the Host Tower and uncovered a terrible plot.
 
 Story Progression. Once you get to the Host Tower, navigate through the levels until you reach the pinnacle and "uncover a terrible plot". Since you don't need to obtain anything specific I will briefly go through the story-related items on each level if you want to better understand what is happening and why.
 
-## [ ] You Can't Just Keep a Baby (Chapter 2)
+### [ ] You Can't Just Keep a Baby (Chapter 2)
 
 While your journey has exposed you to many valuable treasures, you probably should have returned the baby.
 
@@ -31,7 +33,7 @@ SoU (recommended way for later achievement related to this one):
 
 1. Tynan is a baby you will encounter during an East Hilltop quest. Nora Blake will approach you as you come near and tell you that kobolds are in her home and that her husband went inside to get their baby. Go inside, and upstairs, and get the baby back safely. Now, you have the option of being a monster by keeping the child and killing their mother when she becomes frantic and attacks you. You'll want to hold onto him for another achievement later in Hordes of the Underdark...or export the character with the baby in inventory, and then go back to previous save and give the baby back.
 
-## [ ] Fair Weather Henchmen (Chapter 1, 2, 3)
+### [ ] Fair Weather Henchmen (Chapter 1, 2, 3)
 
 You've built the foundations for six beautiful friendships with the power of bribery.
 
@@ -92,7 +94,7 @@ Reward: Ring of the Rogue +1 (DEX +1, Disable Trap +1, Open Lock +1).
 Using Fair Weather Henchman as a reference from chapter one, continue their new quests in Chapter 3 as well. TLDR? Talk to henchmen at various levels, find out what they need, collect items at any time, give item to henchman after theyve told you what they need while they are in your party. They will upgrade their quest reward items they gave you earlier- hopefully you kept and didn't sell them!
 
 
-### [ ] Not Just In It For The Paycheque (Chapter 2)
+#### [ ] Not Just In It For The Paycheque (Chapter 2)
 
 Nothing says loyalty like giving your employees more presents.
 
@@ -134,7 +136,7 @@ CH 2 Quest: The item that Tomi is looking for is the Star of Calimshan. The gem 
 
 CH 2 Reward: Tomi will upgrade your CH 1 reward item into the Ring of the Rogue +3 (DEX +3, Disable Trap +2, Open Lock +2).
 
-### [ ] Ride or Die Henchmen (Chapter 3)
+#### [ ] Ride or Die Henchmen (Chapter 3)
 
 You secured six livelong henchmen for the low price of three priceless presents.
 
@@ -174,41 +176,47 @@ CH 3 Quest: Tomi is in search for some ashes of a Great Hero. When you arrive to
 
 CH 3 Reward: The Ring of Rogue +4
 
-## [ ] A Paladin's Penance (Chapter 4)
+### [ ] A Paladin's Penance (Chapter 4)
 
 The scales of justice will be balanced with peaceful sacrifice.
 
 When you confront Lady Aribeth, talk her down instead of fighting her. Save before this to get the next achievement in one-go.
 
-## [ ] Hardcore Morag (Chapter 4)
+### [ ] Hardcore Morag (Chapter 4)
 
 You defeated Morag while suffering under the difficulty of Hardcore rules or harder!
 
 In your game settings make sure you are on Hardcore difficulty or higher before going in to fight Morag. This will be a hard fight, but destroy the statue asap. Morag will be invulnerable to all of the types that the lizard priests represent, but they are weak to the invulnerability they represent, so kill them however you wish in order to make Morag vulnerable to that attack type (ie. Invulnerable to Fire Priest is vulnerable to fire, and once killed Morag will take damage from fire attacks.)
 
-## [ ] Hardcore Heurodis (Shadows of Undrentide)
+## Shadows of Undrentide
+
+### [ ] Hardcore Heurodis
 
 You defeated Heurodis while suffering under the difficulty of Hardcore rules or harder
 
 You will need to make sure you are on Hardcore or higher difficulty when you go into the Third Floor to fight Heurodis. Be ready for a hard fight and any potions/spells to protect you from paralysis. You will have to bash all the mythallar in the big circle before you can damage Heurodis. Try to deal as much damage as possible to take her out quickly otherwise she casts a bigby's hand spell on you which will hurt. Repeat until she is defeated.
 
-## That Baby Does NOT Go There
+## Hoards of underdark
+
+### [ ] That Baby Does NOT Go There
 
 What are you doing with that baby?
 
 Refer back to the "you cant just keep a baby". Tynan, if he remains in your inventory upon exporting the character (or if you're not a monster and just exported character from when you took him, then loaded character at start of CH 2) can be used when you find a beholder bridge control panel east of Lith My'athar. The control panel will include a choice to "Insert Tynan"; upon doing so, two options (described as pictures) will appear. One picture is a spider and the other is a small humanoid. Choosing either option will remove Tynan and give you this achievement.
 
-## [ ] Undrentide Under Rubble (Hoards of underdark)
+### [ ] Undrentide Under Rubble
 
 You defeated Heurodis and saved Faerun from a shadowy fate.
 
 After defeating Heurodis and your final cut-scene starts this achievement will pop.
 
-## [ ] Hardcore Mephistopheles (Hoards of underdark)
+## [ ] Hardcore Mephistopheles
 
 You decided the fate of Mephistopheles after a grueling battle while the difficulty was set to Hardcore Rules or harder.
 
 When you get back to Waterdeep make sure you are on Hardcore or higher difficulty from your Game Options Menu. Before the fight there will be some back and fourth of your henchmen either fighting for, or against, you. High persuasion will help you here most, but True Names work too. After this you will get a chance to banish Mephistopheles if you bought his True Name from the Knower of Names. If you didn't, you'll get to finally fight Mephistopheles. He will disappear a couple of times, turning the ground to ice or fire and elementals will be summoned based on the ground type. Use the demon hand to take higher ground and kill the elementals in order to make Mephistopheles come back. Beat him down until he surrenders and you'll have the opportunity to finish him off or banish him. Either choice will give you this achievement.
+
+## Any module
 
 ## [ ] Arcana: Epic Edition
 
