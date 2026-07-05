@@ -2,6 +2,7 @@
 
 * Source: https://steamcommunity.com/sharedfiles/filedetails/?id=1879899065
 * Video guia: https://youtu.be/OYlg0i3Do7A
+* Cleric build (para la video guia): https://lilura1.blogspot.com/2020/10/Neverwinter-Nights-NWN1-Best-Builds-Cleric-Martial-Builds.html
 
 ## Main Module
 
@@ -10,6 +11,44 @@
 You succeeded in curing the Wailing Death!
 
 Story progression. Take Desther back to Lord Nasher, promting a final cut-scene for chapter 1 and giving you this achievement.
+
+### [ ] Hoard Mode (Chapter 2)
+
+In your journey to Luskan you have completed the quests that had you collect gems for a serpent, crystal sculptures, magical tomes, and... ears.
+
+This is referring a few quests you will have to do:
+
+Collect gems for a serpent...Quest "Port Last: The Serpent's Gems": Speak to Elaith in the Alliance Arms Inn and ask to help him with his problems.
+
+He will tell you about 3 gems that he needs you to recover for him:
+
+Zamithra’s Gem: Go to the Green Griffon Inn and speak to Zamithra. If you are a man you can lure her up to her room upstairs and persuade (or kill) her to get her gem. If you are a woman you will hear her, not so subtly, tell a companion of hers to join her in her bedchambers upstairs. Follow them and, sneakily, take the gem from the chest in her room. If she notices you she will call you a thief and attack you.
+
+Setara’s Ruby: Go to the Neverwinter Woods. First go to the Nymph's home to find a mirror in a chest in the room where you find the Nymph. Bring the mirror to Setara in her home further into the Neverwinter Woods and she will reward you with her ruby.
+
+Wanev’s Gem: Go to Wanev’s Tower. Use Tomi's CH 2 Henchman achievement for details on how to get in. Once you find Wanev you can ask him about his problems. He will tell you about a portal he needs closed and will send you to a different area- the summoning chambers. In this area there is a chest on the northern part of the map with the gem inside.
+
+Crystal Sculptures...Quest "North Road: Mutamin's Challenge": Enter the Green Griffon Inn and speak to Kasma. He will tell you about a maze below the inn. Then, speak to Mutamin, the owner and inquire about the competition.
+
+Enter and go through each level of the maze. You will need to collect:
+A Crystal Egg: You will need this for a riddle at the end to leave, but as long as you had it its okay to use it, you will still get the achievement. You can find it in the room in the top right corner of the map in a chest on Level 3.
+A Crystal Skull: level 1 inside a chest in a SW room.
+A Crystal Insect: you can loot it from one of the minotaurs in the middle hallways on Level 2.
+A Crystal Frog: The Yuan-Ti from Level 1 will give it to you if you solve her riddles. The answer for the first riddle is 15. The answer for the second riddle is 12 trinkets and 5 girls.
+
+Magical tomes...Quest "Port Last: Five Tomes of Imaskar": Speak to Eltoora in Port Last. She will, if asked, ask you to return 5 important tomes (if you take the portal behind her you could also craft them with the right ingredients).
+
+You will need the:
+
+Tome of Life: you can find it in the Tomb of the Arcane Brotherhood in a glowing bookcase.
+
+Tome of Fire: Refer to Tower Frozen in time achievement for details on how to get this one.
+
+Tome of Ice: In Wanev's Tower in a glowing bookcase. Reference Tomi's CH 2 henchmen achievement for details on how to get in!
+
+Tome of Death: Refer to Tower Frozen in time achievement for details on how to get this one.
+
+Tome of Resonance: This tome is in a glowing bookcase in Setara's home in the Neverwinter Woods.
 
 ### [ ] New Servant of Evil (Chapter 2)
 
