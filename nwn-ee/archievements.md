@@ -76,13 +76,12 @@ SoU (recommended way for later achievement related to this one):
 
 You've built the foundations for six beautiful friendships with the power of bribery.
 
-
 Each of the henchmen available to you will have a quest for you. You must complete six of these for this achievement. In order to initiate the quest, hire the henchman and talk to them while they are in your party. All of their quests run through three stages and the stages are tied to your level vs a sequence of events. Stage 1 you can meet right away. Stage 2 talk to them again when you are level 5+. Stage 3 talk to them a final time when you are level 6+ and they will finish their story and tell you what it is that they are searching for. You will have to retrieve this item and return it to them in order to complete their personal quest, but they don't need to be in your party when you are searching for the items.
 
 You can find these items at any time, without the final stage prompt, so if you are thorough you won't have to backtrack, but you will need the final stage prompt in order to give the item to the henchman. Just make sure not to drop or sell their item! Your henchman can always rejoin you if you don't sell their item you get when you first hire them, verifying their services to you. If you do, you can rehire them- for a price. When you give them their quest related item they will give you a special reward. Make sure to keep and not sell these for later chapters- you will need for another achievement.
 
 
-**Boddyknock Glinckle** (in order by name, not place to go to first. places where items are are in bold so you can get them depending on where you go since you can go in any order)
+* [ ] **Boddyknock Glinckle** (in order by name, not place to go to first. places where items are are in bold so you can get them depending on where you go since you can go in any order)
 
 Location: Inside the Trade of Blades (Straight out of the Halls of Justice, down the ramp, next to the Docks Gate)
 
@@ -90,7 +89,7 @@ CH 1 Quest: He is looking for a recipe for Leaven Bread. You can find the recipe
 
 Reward: Lantanese Ring +1 (CHA +1, Regeneration +1, while equipped). The regeneration effect is 1 point per round and it will stack with other regeneration effects for faster healing.
 
-**Daelan Red-Tiger**
+* [ ] **Daelan Red-Tiger**
 
 Location: Trade of Blades
 
@@ -98,7 +97,7 @@ CH 1 Quest: He needs to find his mother's brooch to complete his vision quest. Y
 
 Reward: Amulet of the Red Tiger Tribe +1 (STR +1, Immunity: Fear)
 
-**Grimgnaw** (my personal favorite!)
+* [ ] **Grimgnaw** (my personal favorite!)
 
 Location: Trade of Blades
 
@@ -106,7 +105,7 @@ CH 1 Quest: He needs to retrieve a silver ring to prove that another initiate is
 
 Reward: Amulet of the Long Death +1 (CON +1, Spell Resistance: 10)
 
-**Linu La'neral**
+* [ ] **Linu La'neral**
 
 Location: Trade of Blades (noticing a pattern yet?)
 
@@ -114,7 +113,7 @@ CH 1 Quest: She needs to retrieve the Silver Chalice that was stolen from her te
 
 Reward: Pendant of the Elf (DEX +1).
 
-**Sharwyn**
+* [ ] **Sharwyn**
 
 Initial Location: Trade of Blades
 
@@ -122,7 +121,7 @@ CH 1 Quest: She needs to find the Celestial Elixir to cure her mother. You can f
 
 Reward: Belt of the Performer +1 (CHA +1, Perform +1, Persuade +1)
 
-**Tomi Undergallows**
+* [X] **Tomi Undergallows**
 
 Location: inside the Halls of Justice by the exit (where you speak to Lady Aribeth)
 
@@ -131,7 +130,6 @@ CH 1 Quest: He needs to find some forged documents that will "prove" he was in N
 Reward: Ring of the Rogue +1 (DEX +1, Disable Trap +1, Open Lock +1).
 
 Using Fair Weather Henchman as a reference from chapter one, continue their new quests in Chapter 3 as well. TLDR? Talk to henchmen at various levels, find out what they need, collect items at any time, give item to henchman after theyve told you what they need while they are in your party. They will upgrade their quest reward items they gave you earlier- hopefully you kept and didn't sell them!
-
 
 #### [ ] Not Just In It For The Paycheque (Chapter 2)
 
