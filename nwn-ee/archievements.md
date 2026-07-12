@@ -6,6 +6,65 @@
 
 ## Main Module
 
+### [X] Fair Weather Henchmen (Chapter 1)
+
+You've built the foundations for six beautiful friendships with the power of bribery.
+
+Each of the henchmen available to you will have a quest for you. You must complete six of these for this achievement. In order to initiate the quest, hire the henchman and talk to them while they are in your party. All of their quests run through three stages and the stages are tied to your level vs a sequence of events. Stage 1 you can meet right away. Stage 2 talk to them again when you are level 5+. Stage 3 talk to them a final time when you are level 6+ and they will finish their story and tell you what it is that they are searching for. You will have to retrieve this item and return it to them in order to complete their personal quest, but they don't need to be in your party when you are searching for the items.
+
+You can find these items at any time, without the final stage prompt, so if you are thorough you won't have to backtrack, but you will need the final stage prompt in order to give the item to the henchman. Just make sure not to drop or sell their item! Your henchman can always rejoin you if you don't sell their item you get when you first hire them, verifying their services to you. If you do, you can rehire them- for a price. When you give them their quest related item they will give you a special reward. Make sure to keep and not sell these for later chapters- you will need for another achievement.
+
+
+* [X] **Boddyknock Glinckle** (in order by name, not place to go to first. places where items are are in bold so you can get them depending on where you go since you can go in any order)
+
+Location: Inside the Trade of Blades (Straight out of the Halls of Justice, down the ramp, next to the Docks Gate)
+
+CH 1 Quest: He is looking for a recipe for Leaven Bread. You can find the recipe for it on Siril's body in a barricaded home in the Beggar's Nest.
+
+Reward: Lantanese Ring +1 (CHA +1, Regeneration +1, while equipped). The regeneration effect is 1 point per round and it will stack with other regeneration effects for faster healing.
+
+* [X] **Daelan Red-Tiger**
+
+Location: Trade of Blades
+
+CH 1 Quest: He needs to find his mother's brooch to complete his vision quest. You can find it in the unlocked chest on the Bloodsailor ship in the Docks District.
+
+Reward: Amulet of the Red Tiger Tribe +1 (STR +1, Immunity: Fear)
+
+* [X] **Grimgnaw** (my personal favorite!)
+
+Location: Trade of Blades
+
+CH 1 Quest: He needs to retrieve a silver ring to prove that another initiate is dead. You can find it in a desk in the house at the end of an alley in No-Man's Land (This is there area you enter when you go through the Blacklake District Gate from the City Core).
+
+Reward: Amulet of the Long Death +1 (CON +1, Spell Resistance: 10)
+
+* [X] **Linu La'neral**
+
+Location: Trade of Blades (noticing a pattern yet?)
+
+CH 1 Quest: She needs to retrieve the Silver Chalice that was stolen from her temple. You can find the chalice from Melanden's estate in the Blacklake District. If you speak to the old lady named Milly, who can be found walking around the guarded estates, and she will give you a key to her home (between Melanden's estate and the zoo) which has a secret entrance in! Or you can just kill the guard at the gate and take his key to get in. The chalice will be in a cabinet in the room with a red symbol on the floor downstairs (you will need to be in this room for story progression in your search for the Waterdavien Creatures, so you shouldn't miss it).
+
+Reward: Pendant of the Elf (DEX +1).
+
+* [X] **Sharwyn**
+
+Initial Location: Trade of Blades
+
+CH 1 Quest: She needs to find the Celestial Elixir to cure her mother. You can find it in the Alchemy desk in the Tanglebrook estate (there is a key to get in under the welcome mat) in the Peninsula District next to the prison.
+
+Reward: Belt of the Performer +1 (CHA +1, Perform +1, Persuade +1)
+
+* [X] **Tomi Undergallows**
+
+Location: inside the Halls of Justice by the exit (where you speak to Lady Aribeth)
+
+CH 1 Quest: He needs to find some forged documents that will "prove" he was in Neverwinter at the time of an assassination. You can find them in a bookcase where you find Hector in the Beggar's Nest.
+
+Reward: Ring of the Rogue +1 (DEX +1, Disable Trap +1, Open Lock +1).
+
+Using Fair Weather Henchman as a reference from chapter one, continue their new quests in Chapter 3 as well. TLDR? Talk to henchmen at various levels, find out what they need, collect items at any time, give item to henchman after theyve told you what they need while they are in your party. They will upgrade their quest reward items they gave you earlier- hopefully you kept and didn't sell them!
+
 ### [ ] Silence the Wailing (Chapter 1)
 
 You succeeded in curing the Wailing Death!
@@ -72,142 +131,83 @@ SoU (recommended way for later achievement related to this one):
 
 1. Tynan is a baby you will encounter during an East Hilltop quest. Nora Blake will approach you as you come near and tell you that kobolds are in her home and that her husband went inside to get their baby. Go inside, and upstairs, and get the baby back safely. Now, you have the option of being a monster by keeping the child and killing their mother when she becomes frantic and attacks you. You'll want to hold onto him for another achievement later in Hordes of the Underdark...or export the character with the baby in inventory, and then go back to previous save and give the baby back.
 
-### [ ] Fair Weather Henchmen (Chapter 1, 2, 3)
-
-You've built the foundations for six beautiful friendships with the power of bribery.
-
-Each of the henchmen available to you will have a quest for you. You must complete six of these for this achievement. In order to initiate the quest, hire the henchman and talk to them while they are in your party. All of their quests run through three stages and the stages are tied to your level vs a sequence of events. Stage 1 you can meet right away. Stage 2 talk to them again when you are level 5+. Stage 3 talk to them a final time when you are level 6+ and they will finish their story and tell you what it is that they are searching for. You will have to retrieve this item and return it to them in order to complete their personal quest, but they don't need to be in your party when you are searching for the items.
-
-You can find these items at any time, without the final stage prompt, so if you are thorough you won't have to backtrack, but you will need the final stage prompt in order to give the item to the henchman. Just make sure not to drop or sell their item! Your henchman can always rejoin you if you don't sell their item you get when you first hire them, verifying their services to you. If you do, you can rehire them- for a price. When you give them their quest related item they will give you a special reward. Make sure to keep and not sell these for later chapters- you will need for another achievement.
-
-
-* [ ] **Boddyknock Glinckle** (in order by name, not place to go to first. places where items are are in bold so you can get them depending on where you go since you can go in any order)
-
-Location: Inside the Trade of Blades (Straight out of the Halls of Justice, down the ramp, next to the Docks Gate)
-
-CH 1 Quest: He is looking for a recipe for Leaven Bread. You can find the recipe for it on Siril's body in a barricaded home in the Beggar's Nest.
-
-Reward: Lantanese Ring +1 (CHA +1, Regeneration +1, while equipped). The regeneration effect is 1 point per round and it will stack with other regeneration effects for faster healing.
-
-* [ ] **Daelan Red-Tiger**
-
-Location: Trade of Blades
-
-CH 1 Quest: He needs to find his mother's brooch to complete his vision quest. You can find it in the unlocked chest on the Bloodsailor ship in the Docks District.
-
-Reward: Amulet of the Red Tiger Tribe +1 (STR +1, Immunity: Fear)
-
-* [ ] **Grimgnaw** (my personal favorite!)
-
-Location: Trade of Blades
-
-CH 1 Quest: He needs to retrieve a silver ring to prove that another initiate is dead. You can find it in a desk in the house at the end of an alley in No-Man's Land (This is there area you enter when you go through the Blacklake District Gate from the City Core).
-
-Reward: Amulet of the Long Death +1 (CON +1, Spell Resistance: 10)
-
-* [ ] **Linu La'neral**
-
-Location: Trade of Blades (noticing a pattern yet?)
-
-CH 1 Quest: She needs to retrieve the Silver Chalice that was stolen from her temple. You can find the chalice from Melanden's estate in the Blacklake District. If you speak to the old lady named Milly, who can be found walking around the guarded estates, and she will give you a key to her home (between Melanden's estate and the zoo) which has a secret entrance in! Or you can just kill the guard at the gate and take his key to get in. The chalice will be in a cabinet in the room with a red symbol on the floor downstairs (you will need to be in this room for story progression in your search for the Waterdavien Creatures, so you shouldn't miss it).
-
-Reward: Pendant of the Elf (DEX +1).
-
-* [ ] **Sharwyn**
-
-Initial Location: Trade of Blades
-
-CH 1 Quest: She needs to find the Celestial Elixir to cure her mother. You can find it in the Alchemy desk in the Tanglebrook estate (there is a key to get in under the welcome mat) in the Peninsula District next to the prison.
-
-Reward: Belt of the Performer +1 (CHA +1, Perform +1, Persuade +1)
-
-* [X] **Tomi Undergallows**
-
-Location: inside the Halls of Justice by the exit (where you speak to Lady Aribeth)
-
-CH 1 Quest: He needs to find some forged documents that will "prove" he was in Neverwinter at the time of an assassination. You can find them in a bookcase where you find Hector in the Beggar's Nest.
-
-Reward: Ring of the Rogue +1 (DEX +1, Disable Trap +1, Open Lock +1).
-
-Using Fair Weather Henchman as a reference from chapter one, continue their new quests in Chapter 3 as well. TLDR? Talk to henchmen at various levels, find out what they need, collect items at any time, give item to henchman after theyve told you what they need while they are in your party. They will upgrade their quest reward items they gave you earlier- hopefully you kept and didn't sell them!
-
-#### [ ] Not Just In It For The Paycheque (Chapter 2)
+### [ ] Not Just In It For The Paycheque (Chapter 2)
 
 Nothing says loyalty like giving your employees more presents.
 
 Using Fair Weather Henchman as a reference from chapter one, continue their new quests in Chapter 2 as well. TLDR? Talk to henchmen at various levels, find out what they need, collect items at any time, give item to henchman after theyve told you what they need while they are in your party. They will upgrade their quest reward items they gave you earlier- hopefully you kept and didn't sell them!
 
-**Boddyknock Glinckle**
+* [ ] **Boddyknock Glinckle**
 
 CH 2 Quest: Boddyknock is in search for a rare seed called the Prism Blossom seed. The seed can be found in a crate at the entrance of the Creator Caves, through the third level of the Troll Caves. It will be before you pass through the fence where the first Seal Guardian Golem is.
 
 CH 2 Reward: Boddyknock will upgrade his reward from CH 1 Quest to Lantanese Ring +3 (CHA +3, Regen +1).
 
-**Daelan Redtiger**
+* [ ] **Daelan Redtiger**
 
 CH 2 Quest: Daelan wants to find the axe that killed his mother. When you enter Mutamin's Challenge at the Green Griffon Inn on the North Road you will eventually meet up with a dwarf called Gorkan down at Level 3, right before the final riddle room. He will attack you there and after you defeat him you can loot the axe you need from his corpse.
 
 CH 2 Reward: Daelan will upgrade his reward item from CH 1 to the Amulet of the Red Tiger Tribe +3 (STR +3, Immunity: Fear).
 
-**Grimgnaw**
+* [ ] **Grimgnaw**
 
 CH 2 Quest: Grimgnaw will need a corpse's hand. When you reach the Graveyard on the North Road, you will need to enter the Arcane Brotherhood's Tomb (red). You can get in if you talk to the gravekeeper in his shack nearby. Once inside, go straight out from the entrance. Next to the fence/gate there will be a chest (yellow) with the Corpse Hand inside.
 
 CH 2 Reward: Grimgnaw will upgrade your CH 1 reward item to the Amulet of the Long Death +3 (CON +3, Spell Resitance: 10).
 
-**Linu La'Nera**
+* [ ] **Linu La'Nera**
 
 CH 2 Quest: Linu is in search for her Husband's Journal. You will come upon a Journal of Synth La'neral at the Troll Caves, on the East Road, on a corpse on the first level. There are a number of ways to get into the troll caves, however I would recommend starting by going into the one furthest north, near the Archeologist Barracks.
 
 CH 2 Reward: Linu will upgrade your CH 1 reward item to the Pendant of the Elf +3 (DEX +3, Darkvision).
 
-**Sharwyn**
+* [ ] **Sharwyn**
 
 CH 2 Quest: Sharwyn is in search for a lock of Nymph's Hair. You will find a lock of hair in the Nymph's House in the Neverwinter Wood. It will be in an armoire in one of the bedrooms.
 
 CH 2 Reward: Sharwyn will upgrade her CH 1 reward item to the Belt of the Performer +3 (CHA +3, Perform +2, Persuade +2).
 
-**Tomi Undergallows**
+* [ ] **Tomi Undergallows**
 
 CH 2 Quest: The item that Tomi is looking for is the Star of Calimshan. The gem is located in Wanev's Tower (red circle), on the South Road. In order to get to Wanev's Tower you will first have to get past Lerk the Troll (blue circle.) Then, since the gate to the tower needs a specific key to unlock, go to the cave (green circle). There is a locked door, get through it, go down the hallway, and you will find a door that takes you inside of Wanev's Tower. It will be in one of the Bugbear's chests (locked) on the main floor.
 
 CH 2 Reward: Tomi will upgrade your CH 1 reward item into the Ring of the Rogue +3 (DEX +3, Disable Trap +2, Open Lock +2).
 
-#### [ ] Ride or Die Henchmen (Chapter 3)
+### [ ] Ride or Die Henchmen (Chapter 3)
 
 You secured six livelong henchmen for the low price of three priceless presents.
 
-**Boddyknock Glinckle**
+* [ ] **Boddyknock Glinckle**
 
 CH 3 Quest: Boddyknock needs a Dragon Scale. You can find it in a pile of rubble, behind a sleeping? dragon in a cave in the Moonwood forest.
 
 CH 3 Reward: He will upgrade his CH 2 reward to Prophyro's Ring +4.
 
-**Daelan Redtiger**
+* [ ] **Daelan Redtiger**
 
 CH 3 Quest: Daelan will tell you he needs the Uthgardt Ceremonial Spear. You can get it from Zokan Thunderer, the leader of the Elk Tribe, at the Elk Tribe Keep near the Fort Ilkard Homesteads. You will have to peacefully talk to him to find out that Commander Damas has given the Tribe plague-ridden blankets, making them all sick. Agree to get the cure from Damas and bring it back to Zokan and you will get the Spear as a reward.
 
 CH 3 Reward: Daelan will upgrade his CH 2 reward item to the Amulet of the Uthgardt +4.
 
-**Grimgnaw**
+* [ ] **Grimgnaw**
 
 CH 3 Quest: Grimgnaw will tell you a grim tale about how he needs a special dagger. In the forest of Coldwood you will come upon a small Orc Camp led by an orc named Vaath. You will find the dagger in a chest near his bedroll.
 
 CH 3 Reward: Grimgnaw will upgrade his CH 2 reward item to the Amulet of the Silent Lord +4.
 
-**Linu La'Nera**
+* [ ] **Linu La'Nera**
 
 CH 3 Quest: Linu will need a rare seed called Volcanic Oak Seed. You can find it near some standing stones over at the Fort Ilkard Ruins.
 
 CH 3 Reward: Linu will upgrade her CH 2 reward item to the Pendant of the Elf +4.
 
-**Sharwyn**
+* [ ] **Sharwyn**
 
 CH 3 Quest: Sharwyn is searching for the Lost Song of Love. When you reach the Creator Race Ruins you will find an item called Tamorlyn's Song in a Sarcophagus. This is actually the Lost Song of Love that she needs.
 
 CH 3 Reward: Sharwwyn will upgrade her CH 2 rewward item to the Belt of the Performer +5.
 
-**Tomi Undergallows**
+* [ ] **Tomi Undergallows**
 
 CH 3 Quest: Tomi is in search for some ashes of a Great Hero. When you arrive to the Elk Tribe Keep you will find the Ashes of the Running Wolf.
 
