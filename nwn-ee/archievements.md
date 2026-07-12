@@ -64,7 +64,7 @@ CH 1 Quest: He needs to find some forged documents that will "prove" he was in N
 Reward: Ring of the Rogue +1 (DEX +1, Disable Trap +1, Open Lock +1).
 
 Using Fair Weather Henchman as a reference from chapter one, continue their new quests in Chapter 3 as well. TLDR? Talk to henchmen at various levels, find out what they need, collect items at any time, give item to henchman after theyve told you what they need while they are in your party. They will upgrade their quest reward items they gave you earlier- hopefully you kept and didn't sell them!
-
+                                    
 ### [ ] Silence the Wailing (Chapter 1)
 
 You succeeded in curing the Wailing Death!
