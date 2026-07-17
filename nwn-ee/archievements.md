@@ -71,7 +71,7 @@ You succeeded in curing the Wailing Death!
 
 Story progression. Take Desther back to Lord Nasher, promting a final cut-scene for chapter 1 and giving you this achievement.
 
-### [ ] Hoard Mode (Chapter 2)
+### [X] Hoard Mode (Chapter 2)
 
 In your journey to Luskan you have completed the quests that had you collect gems for a serpent, crystal sculptures, magical tomes, and... ears.
 
@@ -81,33 +81,36 @@ Collect gems for a serpent...Quest "Port Last: The Serpent's Gems": Speak to Ela
 
 He will tell you about 3 gems that he needs you to recover for him:
 
-Zamithra’s Gem: Go to the Green Griffon Inn and speak to Zamithra. If you are a man you can lure her up to her room upstairs and persuade (or kill) her to get her gem. If you are a woman you will hear her, not so subtly, tell a companion of hers to join her in her bedchambers upstairs. Follow them and, sneakily, take the gem from the chest in her room. If she notices you she will call you a thief and attack you.
-
-Setara’s Ruby: Go to the Neverwinter Woods. First go to the Nymph's home to find a mirror in a chest in the room where you find the Nymph. Bring the mirror to Setara in her home further into the Neverwinter Woods and she will reward you with her ruby.
-
-Wanev’s Gem: Go to Wanev’s Tower. Use Tomi's CH 2 Henchman achievement for details on how to get in. Once you find Wanev you can ask him about his problems. He will tell you about a portal he needs closed and will send you to a different area- the summoning chambers. In this area there is a chest on the northern part of the map with the gem inside.
+* [X] Zamithra’s Gem: Go to the Green Griffon Inn and speak to Zamithra. If you are a man you can lure her up to her room upstairs and persuade (or kill) her to get her gem. If you are a woman you will hear her, not so subtly, tell a companion of hers to join her in her bedchambers upstairs. Follow them and, sneakily, take the gem from the chest in her room. If she notices you she will call you a thief and attack you.
+* [X] Setara’s Ruby: Go to the Neverwinter Woods. First go to the Nymph's home to find a mirror in a chest in the room where you find the Nymph. Bring the mirror to Setara in her home further into the Neverwinter Woods and she will reward you with her ruby.
+* [X] Wanev’s Gem: Go to Wanev’s Tower. Use Tomi's CH 2 Henchman achievement for details on how to get in. Once you find Wanev you can ask him about his problems. He will tell you about a portal he needs closed and will send you to a different area- the summoning chambers. In this area there is a chest on the northern part of the map with the gem inside.
 
 Crystal Sculptures...Quest "North Road: Mutamin's Challenge": Enter the Green Griffon Inn and speak to Kasma. He will tell you about a maze below the inn. Then, speak to Mutamin, the owner and inquire about the competition.
 
 Enter and go through each level of the maze. You will need to collect:
-A Crystal Egg: You will need this for a riddle at the end to leave, but as long as you had it its okay to use it, you will still get the achievement. You can find it in the room in the top right corner of the map in a chest on Level 3.
-A Crystal Skull: level 1 inside a chest in a SW room.
-A Crystal Insect: you can loot it from one of the minotaurs in the middle hallways on Level 2.
-A Crystal Frog: The Yuan-Ti from Level 1 will give it to you if you solve her riddles. The answer for the first riddle is 15. The answer for the second riddle is 12 trinkets and 5 girls.
+
+* [X] A Crystal Egg: You will need this for a riddle at the end to leave, but as long as you had it its okay to use it, you will still get the achievement. You can find it in the room in the top right corner of the map in a chest on Level 3.
+* [X] A Crystal Skull: level 1 inside a chest in a SW room.
+* [X] A Crystal Insect: you can loot it from one of the minotaurs in the middle hallways on Level 2.
+* [X] A Crystal Frog: The Yuan-Ti from Level 1 will give it to you if you solve her riddles. The answer for the first riddle is 15. The answer for the second riddle is 12 trinkets and 5 girls.
 
 Magical tomes...Quest "Port Last: Five Tomes of Imaskar": Speak to Eltoora in Port Last. She will, if asked, ask you to return 5 important tomes (if you take the portal behind her you could also craft them with the right ingredients).
 
 You will need the:
 
-Tome of Life: you can find it in the Tomb of the Arcane Brotherhood in a glowing bookcase.
+* [X] Tome of Life: you can find it in the Tomb of the Arcane Brotherhood in a glowing bookcase.
+* [X] Tome of Fire: Refer to Tower Frozen in time achievement for details on how to get this one.
+* [X] Tome of Ice: In Wanev's Tower in a glowing bookcase. Reference Tomi's CH 2 henchmen achievement for details on how to get in!
+* [X] Tome of Death: Refer to Tower Frozen in time achievement for details on how to get this one.
+* [X] Tome of Resonance: This tome is in a glowing bookcase in Setara's home in the Neverwinter Woods.
 
-Tome of Fire: Refer to Tower Frozen in time achievement for details on how to get this one.
+Ears...Quest "Port Last: Bounty Hunt": You can start this by talking to Kendrack near the back of the Barracks after Aribeth speaks to you. You will have to hunt down and kill or persuade 5 convicts to acquire their... ears.
 
-Tome of Ice: In Wanev's Tower in a glowing bookcase. Reference Tomi's CH 2 henchmen achievement for details on how to get in!
-
-Tome of Death: Refer to Tower Frozen in time achievement for details on how to get this one.
-
-Tome of Resonance: This tome is in a glowing bookcase in Setara's home in the Neverwinter Woods.
+* [X] Convict 1: Zor, a burly minotaur, can be found in the Green Griffon Inn (which is after the North Road), second floor, last door on the right. If you choose to listen to his story when he surrenders, tell him there is honor in what he has done and will spare him, you will not get his ear! You have to either kill him outright or say "I'll let you go if you can help me find the others." When he attacks you again finish him off to collect his ear.
+* [X] Convict 2: Stirge, an egomaniacal gnome, is hiding out near a hollow tree stump in the Farmlands (after the South Road toward Charwoodd) in the upper left hand corner of the map. You can play his game or kill him to get his ear.
+* [X] Convict 3: Wyvern, an elven ranger with a taste for trickery, is hiding around in the Neverwinter Woods. He will approach you when you get near him and ask you to help him. Follow him and he will ambush you. After weakening him he will surrender. You can talk to him, but he will attack you again anyway. Finish him and collect his ear.
+* [X] Convict 4: Delilah, a halfling assassin, is hiding in the Archeologist Barracks on the second floor. Go along the East Road to find the Barracks.
+* [X] Convict 5: Yesgar, the group's ring-leader and mastermind, is only accessible once you have collected the other 4 convicts' ears. Go back to Kendrack in Port Last and he will tell you that his daughter has been kidnapped by him and he is taking refuge in Port Last Mines. He will give you a key. Go to the North Road midway up the east side of the map. Fight through the Orcs in the mines until you find and finally kill Yesgar. Once he is defeated, free Kendrack's daughter and return to Kendrack. He will then have his 5th ear of the convicts (and his daughter) and you will have your achievement. Huzzah!
 
 ### [ ] New Servant of Evil (Chapter 2)
 
