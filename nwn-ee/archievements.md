@@ -134,43 +134,43 @@ SoU (recommended way for later achievement related to this one):
 
 1. Tynan is a baby you will encounter during an East Hilltop quest. Nora Blake will approach you as you come near and tell you that kobolds are in her home and that her husband went inside to get their baby. Go inside, and upstairs, and get the baby back safely. Now, you have the option of being a monster by keeping the child and killing their mother when she becomes frantic and attacks you. You'll want to hold onto him for another achievement later in Hordes of the Underdark...or export the character with the baby in inventory, and then go back to previous save and give the baby back.
 
-### [ ] Not Just In It For The Paycheque (Chapter 2)
+### [X] Not Just In It For The Paycheque (Chapter 2)
 
 Nothing says loyalty like giving your employees more presents.
 
 Using Fair Weather Henchman as a reference from chapter one, continue their new quests in Chapter 2 as well. TLDR? Talk to henchmen at various levels, find out what they need, collect items at any time, give item to henchman after theyve told you what they need while they are in your party. They will upgrade their quest reward items they gave you earlier- hopefully you kept and didn't sell them!
 
-* [ ] **Boddyknock Glinckle**
+* [X] **Boddyknock Glinckle**
 
 CH 2 Quest: Boddyknock is in search for a rare seed called the Prism Blossom seed. The seed can be found in a crate at the entrance of the Creator Caves, through the third level of the Troll Caves. It will be before you pass through the fence where the first Seal Guardian Golem is.
 
 CH 2 Reward: Boddyknock will upgrade his reward from CH 1 Quest to Lantanese Ring +3 (CHA +3, Regen +1).
 
-* [ ] **Daelan Redtiger**
+* [X] **Daelan Redtiger**
 
 CH 2 Quest: Daelan wants to find the axe that killed his mother. When you enter Mutamin's Challenge at the Green Griffon Inn on the North Road you will eventually meet up with a dwarf called Gorkan down at Level 3, right before the final riddle room. He will attack you there and after you defeat him you can loot the axe you need from his corpse.
 
 CH 2 Reward: Daelan will upgrade his reward item from CH 1 to the Amulet of the Red Tiger Tribe +3 (STR +3, Immunity: Fear).
 
-* [ ] **Grimgnaw**
+* [X] **Grimgnaw**
 
 CH 2 Quest: Grimgnaw will need a corpse's hand. When you reach the Graveyard on the North Road, you will need to enter the Arcane Brotherhood's Tomb (red). You can get in if you talk to the gravekeeper in his shack nearby. Once inside, go straight out from the entrance. Next to the fence/gate there will be a chest (yellow) with the Corpse Hand inside.
 
 CH 2 Reward: Grimgnaw will upgrade your CH 1 reward item to the Amulet of the Long Death +3 (CON +3, Spell Resitance: 10).
 
-* [ ] **Linu La'Nera**
+* [X] **Linu La'Nera**
 
 CH 2 Quest: Linu is in search for her Husband's Journal. You will come upon a Journal of Synth La'neral at the Troll Caves, on the East Road, on a corpse on the first level. There are a number of ways to get into the troll caves, however I would recommend starting by going into the one furthest north, near the Archeologist Barracks.
 
 CH 2 Reward: Linu will upgrade your CH 1 reward item to the Pendant of the Elf +3 (DEX +3, Darkvision).
 
-* [ ] **Sharwyn**
+* [X] **Sharwyn**
 
 CH 2 Quest: Sharwyn is in search for a lock of Nymph's Hair. You will find a lock of hair in the Nymph's House in the Neverwinter Wood. It will be in an armoire in one of the bedrooms.
 
 CH 2 Reward: Sharwyn will upgrade her CH 1 reward item to the Belt of the Performer +3 (CHA +3, Perform +2, Persuade +2).
 
-* [ ] **Tomi Undergallows**
+* [X] **Tomi Undergallows**
 
 CH 2 Quest: The item that Tomi is looking for is the Star of Calimshan. The gem is located in Wanev's Tower (red circle), on the South Road. In order to get to Wanev's Tower you will first have to get past Lerk the Troll (blue circle.) Then, since the gate to the tower needs a specific key to unlock, go to the cave (green circle). There is a locked door, get through it, go down the hallway, and you will find a door that takes you inside of Wanev's Tower. It will be in one of the Bugbear's chests (locked) on the main floor.
 
