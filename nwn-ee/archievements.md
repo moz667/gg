@@ -238,11 +238,22 @@ You will need to make sure you are on Hardcore or higher difficulty when you go 
 
 ## Hoards of underdark
 
-### [ ] That Baby Does NOT Go There
+### [X] That Baby Does NOT Go There
 
 What are you doing with that baby?
 
 Refer back to the "you cant just keep a baby". Tynan, if he remains in your inventory upon exporting the character (or if you're not a monster and just exported character from when you took him, then loaded character at start of CH 2) can be used when you find a beholder bridge control panel east of Lith My'athar. The control panel will include a choice to "Insert Tynan"; upon doing so, two options (described as pictures) will appear. One picture is a spider and the other is a small humanoid. Choosing either option will remove Tynan and give you this achievement.
+
+#### Nota
+
+Se puede hacer facil y rapido con poderes de DM:
+
+* Exportate un personaje de nivel 18 aprox
+* Crea una partida en "Shadow of Undrentide" con ese personaje
+* Haz dm_login, crea un "object / plot / baby" y daselo al personaje
+* Exporta el personaje
+* Crea una partida en "Hordes of Underdark / Chapter 2" importando el personaje en cuestion
+* Apañatelas para llegar por la puerta del oeste hasta el controlador del puente (Bridge Control), haz click en este, selecciona "Insert Tynan here" y selecciona "Press humanoid button"
 
 ### [ ] Undrentide Under Rubble
 
