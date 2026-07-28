@@ -112,13 +112,13 @@ Ears...Quest "Port Last: Bounty Hunt": You can start this by talking to Kendrack
 * [X] Convict 4: Delilah, a halfling assassin, is hiding in the Archeologist Barracks on the second floor. Go along the East Road to find the Barracks.
 * [X] Convict 5: Yesgar, the group's ring-leader and mastermind, is only accessible once you have collected the other 4 convicts' ears. Go back to Kendrack in Port Last and he will tell you that his daughter has been kidnapped by him and he is taking refuge in Port Last Mines. He will give you a key. Go to the North Road midway up the east side of the map. Fight through the Orcs in the mines until you find and finally kill Yesgar. Once he is defeated, free Kendrack's daughter and return to Kendrack. He will then have his 5th ear of the convicts (and his daughter) and you will have your achievement. Huzzah!
 
-### [ ] New Servant of Evil (Chapter 2)
+### [X] New Servant of Evil (Chapter 2)
 
 You navigated the Host Tower and uncovered a terrible plot.
 
 Story Progression. Once you get to the Host Tower, navigate through the levels until you reach the pinnacle and "uncover a terrible plot". Since you don't need to obtain anything specific I will briefly go through the story-related items on each level if you want to better understand what is happening and why.
 
-### [ ] You Can't Just Keep a Baby (Chapter 2)
+### [X] You Can't Just Keep a Baby (Chapter 2)
 
 While your journey has exposed you to many valuable treasures, you probably should have returned the baby.
 
