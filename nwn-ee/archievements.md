@@ -176,41 +176,41 @@ CH 2 Quest: The item that Tomi is looking for is the Star of Calimshan. The gem 
 
 CH 2 Reward: Tomi will upgrade your CH 1 reward item into the Ring of the Rogue +3 (DEX +3, Disable Trap +2, Open Lock +2).
 
-### [ ] Ride or Die Henchmen (Chapter 3)
+### [X] Ride or Die Henchmen (Chapter 3)
 
 You secured six livelong henchmen for the low price of three priceless presents.
 
-* [ ] **Boddyknock Glinckle**
+* [X] **Boddyknock Glinckle**
 
 CH 3 Quest: Boddyknock needs a Dragon Scale. You can find it in a pile of rubble, behind a sleeping? dragon in a cave in the Moonwood forest.
 
 CH 3 Reward: He will upgrade his CH 2 reward to Prophyro's Ring +4.
 
-* [ ] **Daelan Redtiger**
+* [X] **Daelan Redtiger**
 
 CH 3 Quest: Daelan will tell you he needs the Uthgardt Ceremonial Spear. You can get it from Zokan Thunderer, the leader of the Elk Tribe, at the Elk Tribe Keep near the Fort Ilkard Homesteads. You will have to peacefully talk to him to find out that Commander Damas has given the Tribe plague-ridden blankets, making them all sick. Agree to get the cure from Damas and bring it back to Zokan and you will get the Spear as a reward.
 
 CH 3 Reward: Daelan will upgrade his CH 2 reward item to the Amulet of the Uthgardt +4.
 
-* [ ] **Grimgnaw**
+* [X] **Grimgnaw**
 
 CH 3 Quest: Grimgnaw will tell you a grim tale about how he needs a special dagger. In the forest of Coldwood you will come upon a small Orc Camp led by an orc named Vaath. You will find the dagger in a chest near his bedroll.
 
 CH 3 Reward: Grimgnaw will upgrade his CH 2 reward item to the Amulet of the Silent Lord +4.
 
-* [ ] **Linu La'Nera**
+* [X] **Linu La'Nera**
 
 CH 3 Quest: Linu will need a rare seed called Volcanic Oak Seed. You can find it near some standing stones over at the Fort Ilkard Ruins.
 
 CH 3 Reward: Linu will upgrade her CH 2 reward item to the Pendant of the Elf +4.
 
-* [ ] **Sharwyn**
+* [X] **Sharwyn**
 
 CH 3 Quest: Sharwyn is searching for the Lost Song of Love. When you reach the Creator Race Ruins you will find an item called Tamorlyn's Song in a Sarcophagus. This is actually the Lost Song of Love that she needs.
 
 CH 3 Reward: Sharwwyn will upgrade her CH 2 rewward item to the Belt of the Performer +5.
 
-* [ ] **Tomi Undergallows**
+* [X] **Tomi Undergallows**
 
 CH 3 Quest: Tomi is in search for some ashes of a Great Hero. When you arrive to the Elk Tribe Keep you will find the Ashes of the Running Wolf.
 
