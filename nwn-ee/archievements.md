@@ -216,7 +216,7 @@ CH 3 Quest: Tomi is in search for some ashes of a Great Hero. When you arrive to
 
 CH 3 Reward: The Ring of Rogue +4
 
-### [ ] A Paladin's Penance (Chapter 4)
+### [X] A Paladin's Penance (Chapter 4)
 
 The scales of justice will be balanced with peaceful sacrifice.
 
