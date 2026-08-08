@@ -222,7 +222,7 @@ The scales of justice will be balanced with peaceful sacrifice.
 
 When you confront Lady Aribeth, talk her down instead of fighting her. Save before this to get the next achievement in one-go.
 
-### [ ] Hardcore Morag (Chapter 4)
+### [X] Hardcore Morag (Chapter 4)
 
 You defeated Morag while suffering under the difficulty of Hardcore rules or harder!
 
