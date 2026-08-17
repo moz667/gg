@@ -230,7 +230,13 @@ In your game settings make sure you are on Hardcore difficulty or higher before 
 
 ## Shadows of Undrentide
 
-### [ ] Hardcore Heurodis
+### [X] Undrentide Under Rubble
+
+You defeated Heurodis and saved Faerun from a shadowy fate.
+
+After defeating Heurodis and your final cut-scene starts this achievement will pop.
+
+### [X] Hardcore Heurodis
 
 You defeated Heurodis while suffering under the difficulty of Hardcore rules or harder
 
@@ -255,12 +261,6 @@ Se puede hacer facil y rapido con poderes de DM:
 * Crea una partida en "Hordes of Underdark / Chapter 2" importando el personaje en cuestion
 * Apañatelas para llegar por la puerta del oeste hasta el controlador del puente (Bridge Control), haz click en este, selecciona "Insert Tynan here" y selecciona "Press humanoid button"
 
-### [ ] Undrentide Under Rubble
-
-You defeated Heurodis and saved Faerun from a shadowy fate.
-
-After defeating Heurodis and your final cut-scene starts this achievement will pop.
-
 ## [ ] Hardcore Mephistopheles
 
 You decided the fate of Mephistopheles after a grueling battle while the difficulty was set to Hardcore Rules or harder.
@@ -283,18 +283,11 @@ You might need to aim more carefully around your henchmen in the future.
 
 You will need to deal the damage on a henchman that kills them. In order to hurt your own henchmen you will need to be on Hardcore or harder difficulty. Then just...cast area effect damage spells like acid fog, etc. until they die.
 
-## [ ] Even More Prestigious
-
-You unlocked a prestige class from Hordes of the Underdark.
-
-Put a level into any Hordes of the Underdark prestige classes. These are: Champion of Torm, Dwarven Defender, Pale Master, Red Dragon Disciple, Shifter, and Weapon Master. See Level 10 Achievement for easy way to get.
-
 ## [ ] Bigby's Thesaurus Hand
 
 How many hands can Bigby possibly have?
 
 You first need to get each of the Bigby (no not the Fables one) spells. You will need to be a sorcerer or a wizard in order to do this. There are: Bigby's interposing hand (lvl 5), Bigby's forceful hand (lvl 6), Bigby's grasping hand (lvl 7), Bigby's clenched fist (lvl 8), and Bigby's crushing hand (lvl 9). You must try to use at least one of these as well for the achievement to pop. You should be level 20 in order to get the level 9 spell slots. If you only get the spells but don't use any, the achievement will not work.
-
 
 ## [ ] Level 40
 
@@ -308,3 +301,8 @@ Recomendacion:
 * Hacer algun modulo custom que te deje cerca o llegues a 40 (como [Sword flight](https://neverwintervault.org/project/nwn1/module/swordflight-chapter-one)), pero va a ser largo (el escalado de niveles se incrementa exponencialmente...)
 * Usar cheat/bug de [puntos de experiencia infinitos](https://youtu.be/OYlg0i3Do7A?si=zTLqJifYzaaAVeDO&t=2990)
 
+## [X] Even More Prestigious
+
+You unlocked a prestige class from Hordes of the Underdark.
+
+Put a level into any Hordes of the Underdark prestige classes. These are: Champion of Torm, Dwarven Defender, Pale Master, Red Dragon Disciple, Shifter, and Weapon Master. See Level 10 Achievement for easy way to get.
