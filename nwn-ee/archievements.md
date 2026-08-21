@@ -269,7 +269,7 @@ When you get back to Waterdeep make sure you are on Hardcore or higher difficult
 
 ## Any module
 
-## [ ] Arcana: Epic Edition
+## [X] Arcana: Epic Edition
 
 You mastered a truly epic spell.
 
@@ -283,13 +283,13 @@ You might need to aim more carefully around your henchmen in the future.
 
 You will need to deal the damage on a henchman that kills them. In order to hurt your own henchmen you will need to be on Hardcore or harder difficulty. Then just...cast area effect damage spells like acid fog, etc. until they die.
 
-## [ ] Bigby's Thesaurus Hand
+## [X] Bigby's Thesaurus Hand
 
 How many hands can Bigby possibly have?
 
 You first need to get each of the Bigby (no not the Fables one) spells. You will need to be a sorcerer or a wizard in order to do this. There are: Bigby's interposing hand (lvl 5), Bigby's forceful hand (lvl 6), Bigby's grasping hand (lvl 7), Bigby's clenched fist (lvl 8), and Bigby's crushing hand (lvl 9). You must try to use at least one of these as well for the achievement to pop. You should be level 20 in order to get the level 9 spell slots. If you only get the spells but don't use any, the achievement will not work.
 
-## [ ] Level 40
+## [X] Level 40
 
 You have reached level 40! You are unstoppable.
 
@@ -300,6 +300,13 @@ Recomendacion:
 * Hacer infinite dungeons (aunque es poco divertido es posible)
 * Hacer algun modulo custom que te deje cerca o llegues a 40 (como [Sword flight](https://neverwintervault.org/project/nwn1/module/swordflight-chapter-one)), pero va a ser largo (el escalado de niveles se incrementa exponencialmente...)
 * Usar cheat/bug de [puntos de experiencia infinitos](https://youtu.be/OYlg0i3Do7A?si=zTLqJifYzaaAVeDO&t=2990)
+
+### Usando cheat/bug
+
+Usa la calculadora para saber cuantas veces tienes que hacer click, la formula es esta: (780.000 - [Experiencia que tengas actualmente]) / 7.500 = [Numero de veces que tienes que hacer click - 1] + 1. Por ejemplo, en mi caso tenia 152.862 de exp con el personaje asi que: (780.000−152.862) / 7.500 = 83,6184; Es decir, tengo que hacer 84 veces click (83 + 1) al npc para alcanzar nivel 40.
+
+Cada vez que hagas click en el NPC va a lagear bastante el juego haciendolo cada vez mas lento, inclusive petandote y teniendo que empezar de nuevo, pero para alcanzar nivel 40 merece la pena... Como dice [Bohum Ataman](https://youtu.be/OYlg0i3Do7A?si=G4W459Ta7Ketw0dm&t=3006): _Sacrifices had to be made_.
+
 
 ## [X] Even More Prestigious
 
